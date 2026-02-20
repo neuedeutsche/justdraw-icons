@@ -2,6 +2,7 @@
   "name": "JustDraw",
   "version": "1.0.0",
   "artboardSize": 32,
+  "renderingMode": "both",
   "iconCount": 255,
   "icons": [
     "align-axial",
