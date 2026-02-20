@@ -1,8 +1,7 @@
 {
   "name": "JustDraw",
   "version": "1.0.0",
-  "artboardSize": 32,
-  "renderingMode": "both",
+  "artboardSize": 90,
   "iconCount": 255,
   "icons": [
     "zigzag",
