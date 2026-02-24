@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "booleans",
+    "exclude",
+    "xor",
+    "compare"
+  ],
+  "status": "draft",
+  "category": "compare/Booleans",
+  "conceptId": "IC-225202"
+}
