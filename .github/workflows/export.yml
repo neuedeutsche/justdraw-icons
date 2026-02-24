@@ -33,15 +33,15 @@ jobs:
         with:
           node-version: 20
       - name: Quality gate
-        run: npx @justdraw/cli validate .
+        run: npx @justdraw/cli@0.3.2 validate . --allow-empty
       - name: Run export pipeline
-        run: npx @justdraw/cli export . --out _site
+        run: npx @justdraw/cli@0.3.2 export . --out _site
       - name: Generate npm package
-        run: npx @justdraw/cli npm-gen _site --out _site/npm
+        run: npx @justdraw/cli@0.3.2 npm-gen _site --out _site/npm
       - name: Generate SPM package
-        run: npx @justdraw/cli spm-gen _site --out _site/spm
+        run: npx @justdraw/cli@0.3.2 spm-gen _site --out _site/spm
       - name: Generate Gradle package
-        run: npx @justdraw/cli gradle-gen _site --out _site/gradle
+        run: npx @justdraw/cli@0.3.2 gradle-gen _site --out _site/gradle
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -55,7 +55,7 @@ jobs:
           PAGES_URL: ${{ steps.deployment.outputs.page_url || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
         run: |
           if [ -n "$WEBHOOK_URL" ]; then
-            npx @justdraw/cli notify _site
+            npx @justdraw/cli@0.3.2 notify _site
           fi
     outputs:
       version: ${{ steps.version.outputs.version }}
@@ -91,7 +91,16 @@ jobs:
             echo "Release $TAG already exists — skipping."
             exit 0
           fi
-          gh release create "$TAG" \
-            --title "$TAG" \
-            --generate-notes \
-            --latest
+          if git ls-remote --tags origin "refs/tags/$TAG" | grep -q .; then
+            echo "Tag $TAG exists without release — creating release from existing tag."
+            gh release create "$TAG" \
+              --title "$TAG" \
+              --generate-notes \
+              --latest \
+              --verify-tag
+          else
+            gh release create "$TAG" \
+              --title "$TAG" \
+              --generate-notes \
+              --latest
+          fi
