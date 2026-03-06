@@ -1,6 +1,6 @@
 # Chess Pieces
 
-664 icons · 32×32 · 60 categories
+663 icons · 32×32 · 60 categories
 
 ## Preview
 
@@ -13,7 +13,7 @@
 | <img src="icons/tool-trash.svg" width="48" alt="tool-trash"> | <img src="icons/tool-squiggle.svg" width="48" alt="tool-squiggle"> | <img src="icons/tool-select.svg" width="48" alt="tool-select"> | <img src="icons/tool-search.svg" width="48" alt="tool-search"> | <img src="icons/tool-ruler.svg" width="48" alt="tool-ruler"> | <img src="icons/tool-rect-vert.svg" width="48" alt="tool-rect-vert"> | <img src="icons/tool-rect-veert.svg" width="48" alt="tool-rect-veert"> | <img src="icons/tool-rect-horz.svg" width="48" alt="tool-rect-horz"> |
 | <img src="icons/tool-pen.svg" width="48" alt="tool-pen"> | <img src="icons/tool-move-top.svg" width="48" alt="tool-move-top"> | <img src="icons/tool-move-right.svg" width="48" alt="tool-move-right"> | <img src="icons/tool-move-left.svg" width="48" alt="tool-move-left"> | <img src="icons/tool-move-bottom.svg" width="48" alt="tool-move-bottom"> | <img src="icons/tool-lock-open.svg" width="48" alt="tool-lock-open"> | <img src="icons/tool-lock-closed.svg" width="48" alt="tool-lock-closed"> | <img src="icons/tool-line.svg" width="48" alt="tool-line"> |
 
-*Showing 48 of 664 icons. Browse [`icons/`](./icons) for the full set.*
+*Showing 48 of 663 icons. Browse [`icons/`](./icons) for the full set.*
 
 ## Usage
 
