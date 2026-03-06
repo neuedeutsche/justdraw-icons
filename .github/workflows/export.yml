@@ -1,5 +1,5 @@
-# JustDraw Export Pipeline — auto-installed (v3)
-# Validates, optimizes SVGs, generates AVD XML, deploys to GitHub Pages.
+# JustDraw Export Pipeline — auto-installed (v4)
+# Validates, optimizes SVGs, generates all platform packages, deploys to GitHub Pages.
 #
 # Setup: Enable GitHub Pages in repo Settings → Pages → Source: "GitHub Actions"
 # CDN: https://{owner}.github.io/{repo}/svg/{name}.svg
@@ -22,7 +22,7 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   export:
@@ -34,14 +34,36 @@ jobs:
           node-version: 20
       - name: Quality gate
         run: npx @justdraw/cli@0.3.2 validate . --allow-empty
+      - name: Fetch previous manifest
+        run: |
+          PAGES_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}"
+          mkdir -p _prev
+          curl -sf "${PAGES_URL}/manifest.json" -o _prev/manifest.json || echo '{"icons":[]}' > _prev/manifest.json
+      - name: Auto-bump version
+        run: npx @justdraw/cli@0.3.2 version . --dist _prev
       - name: Run export pipeline
         run: npx @justdraw/cli@0.3.2 export . --out _site
       - name: Generate npm package
         run: npx @justdraw/cli@0.3.2 npm-gen _site --out _site/npm
+      - name: Generate Iconify JSON
+        run: npx @justdraw/cli@0.3.2 iconify-gen _site
       - name: Generate SPM package
         run: npx @justdraw/cli@0.3.2 spm-gen _site --out _site/spm
       - name: Generate Gradle package
         run: npx @justdraw/cli@0.3.2 gradle-gen _site --out _site/gradle
+      - name: Generate framework packages
+        run: |
+          npx @justdraw/cli@0.3.2 framework-gen _site --framework react --out _site/packages/react
+          npx @justdraw/cli@0.3.2 framework-gen _site --framework react-native --out _site/packages/react-native
+          npx @justdraw/cli@0.3.2 framework-gen _site --framework vue --out _site/packages/vue
+          npx @justdraw/cli@0.3.2 framework-gen _site --framework svelte --out _site/packages/svelte
+          npx @justdraw/cli@0.3.2 framework-gen _site --framework web-component --out _site/packages/web-component
+      - name: Generate CONTRIBUTING.md
+        run: npx @justdraw/cli@0.3.2 contributing . --out _site
+      - name: Generate llms.txt
+        run: npx @justdraw/cli@0.3.2 llms-gen _site --out _site
+      - name: Generate DESIGN-SYSTEM.md
+        run: npx @justdraw/cli@0.3.2 design-system-gen _site --out _site
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
