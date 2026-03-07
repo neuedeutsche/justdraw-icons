@@ -2,5 +2,8 @@
   "tags": [],
   "status": "draft",
   "category": "arrow",
-  "conceptId": "IC-000003"
+  "conceptId": "IC-000003",
+  "document": {
+    "paths": []
+  }
 }

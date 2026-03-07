@@ -2,7 +2,7 @@
   "name": "Chess Pieces",
   "version": "1.0.0",
   "artboardSize": 32,
-  "iconCount": 663,
+  "iconCount": 667,
   "icons": [
     "3d-extrude-bevel",
     "3d-revolve",
@@ -50,8 +50,8 @@
     "arch-top-left",
     "arch-top-right",
     "aria-injection",
-    "arrow-down",
     "arrow-up",
+    "arrow-down",
     "arrow-left",
     "arrow-right",
     "arrow-horizontal",
@@ -666,6 +666,10 @@
     "zoom-to-actual-size",
     "zoom-to-fit",
     "zoom-to-selection",
-    "zoom"
+    "zoom",
+    "border-bottom",
+    "border-top",
+    "border-right",
+    "border-left"
   ]
 }
