@@ -6,5 +6,83 @@
     "compare"
   ],
   "status": "draft",
-  "category": "compare/Undo"
+  "category": "compare/Undo",
+  "document": {
+    "paths": [
+      {
+        "id": "path_70",
+        "contour": {
+          "id": "c_path_70",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 20.219117478586824,
+              "y": 6.5,
+              "type": "line"
+            },
+            {
+              "x": 33.444792646054545,
+              "y": 17.374253791353553,
+              "type": "line"
+            },
+            {
+              "x": 21.725675167467728,
+              "y": 31.627483851555255,
+              "type": "line"
+            },
+            {
+              "x": 8.5,
+              "y": 20.75323006020171,
+              "type": "line"
+            }
+          ]
+        },
+        "fill": "#ffffff",
+        "stroke": null,
+        "strokeWidth": 0,
+        "shapeParams": {
+          "type": "rect",
+          "cornerRadius": 0
+        },
+        "contours": [
+          {
+            "id": "c_path_70",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 20.219117478586824,
+                "y": 6.5,
+                "type": "line"
+              },
+              {
+                "x": 33.444792646054545,
+                "y": 17.374253791353553,
+                "type": "line"
+              },
+              {
+                "x": 21.725675167467728,
+                "y": 31.627483851555255,
+                "type": "line"
+              },
+              {
+                "x": 8.5,
+                "y": 20.75323006020171,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#ffffff",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal",
+        "rotation": 39.427310482702964
+      }
+    ]
+  }
 }

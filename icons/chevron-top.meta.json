@@ -1,6 +1,9 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "chevron",
-  "conceptId": "IC-000277"
+  "category": "arrow",
+  "conceptId": "IC-000277",
+  "document": {
+    "paths": []
+  }
 }

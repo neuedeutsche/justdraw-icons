@@ -1,6 +1,9 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "",
-  "conceptId": "IC-145015"
+  "category": "weather",
+  "conceptId": "IC-145015",
+  "document": {
+    "paths": []
+  }
 }

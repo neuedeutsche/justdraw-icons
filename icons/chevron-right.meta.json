@@ -1,6 +1,39 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "chevron",
-  "conceptId": "IC-000006"
+  "category": "arrow",
+  "conceptId": "IC-000006",
+  "variantOf": {
+    "sourceIconId": "icon_90",
+    "rotate": 90,
+    "state": "linked",
+    "createdAt": 1772970440854
+  },
+  "document": {
+    "paths": [],
+    "layers": [
+      {
+        "id": "default",
+        "name": "Foreground",
+        "visible": true,
+        "locked": false,
+        "opacity": 1,
+        "paths": [],
+        "componentRefs": [
+          {
+            "id": "path_70",
+            "iconRef": "icon_90",
+            "transform": {
+              "x": 32,
+              "y": 0,
+              "scaleX": 1,
+              "scaleY": 1,
+              "rotation": 90
+            },
+            "locked": true
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -1,5 +1,38 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "arch"
+  "category": "shape",
+  "variantOf": {
+    "sourceIconId": "icon_41",
+    "rotate": 180,
+    "state": "linked",
+    "createdAt": 1772970459762
+  },
+  "document": {
+    "paths": [],
+    "layers": [
+      {
+        "id": "default",
+        "name": "Foreground",
+        "visible": true,
+        "locked": false,
+        "opacity": 1,
+        "paths": [],
+        "componentRefs": [
+          {
+            "id": "path_71",
+            "iconRef": "icon_41",
+            "transform": {
+              "x": 32,
+              "y": 32,
+              "scaleX": 1,
+              "scaleY": 1,
+              "rotation": 180
+            },
+            "locked": true
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -1,6 +1,9 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "triangle",
-  "conceptId": "IC-225109"
+  "category": "shape",
+  "conceptId": "IC-225109",
+  "document": {
+    "paths": []
+  }
 }

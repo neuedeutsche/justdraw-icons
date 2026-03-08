@@ -1,6 +1,324 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "lock",
-  "conceptId": "IC-085037"
+  "category": "object",
+  "conceptId": "IC-085037",
+  "document": {
+    "paths": [
+      {
+        "id": "path_0",
+        "contour": {
+          "id": "c_path_0",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 23.5,
+              "y": 15.6,
+              "type": "line"
+            },
+            {
+              "x": 24.6,
+              "y": 15.6,
+              "type": "offcurve"
+            },
+            {
+              "x": 25.5,
+              "y": 16.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 25.5,
+              "y": 17.6,
+              "type": "curve"
+            },
+            {
+              "x": 25.5,
+              "y": 27.5,
+              "type": "line"
+            },
+            {
+              "x": 25.5,
+              "y": 28.6,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.6,
+              "y": 29.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 23.5,
+              "y": 29.5,
+              "type": "curve"
+            },
+            {
+              "x": 8.5,
+              "y": 29.5,
+              "type": "line"
+            },
+            {
+              "x": 7.4,
+              "y": 29.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 6.5,
+              "y": 28.6,
+              "type": "offcurve"
+            },
+            {
+              "x": 6.5,
+              "y": 27.5,
+              "type": "curve"
+            },
+            {
+              "x": 6.5,
+              "y": 17.6,
+              "type": "line"
+            },
+            {
+              "x": 6.5,
+              "y": 16.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 7.4,
+              "y": 15.6,
+              "type": "offcurve"
+            },
+            {
+              "x": 8.5,
+              "y": 15.6,
+              "type": "curve"
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "white",
+        "strokeWidth": 2,
+        "contours": [
+          {
+            "id": "c_path_0",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 23.5,
+                "y": 15.6,
+                "type": "line"
+              },
+              {
+                "x": 24.6,
+                "y": 15.6,
+                "type": "offcurve"
+              },
+              {
+                "x": 25.5,
+                "y": 16.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 25.5,
+                "y": 17.6,
+                "type": "curve"
+              },
+              {
+                "x": 25.5,
+                "y": 27.5,
+                "type": "line"
+              },
+              {
+                "x": 25.5,
+                "y": 28.6,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.6,
+                "y": 29.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 23.5,
+                "y": 29.5,
+                "type": "curve"
+              },
+              {
+                "x": 8.5,
+                "y": 29.5,
+                "type": "line"
+              },
+              {
+                "x": 7.4,
+                "y": 29.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 6.5,
+                "y": 28.6,
+                "type": "offcurve"
+              },
+              {
+                "x": 6.5,
+                "y": 27.5,
+                "type": "curve"
+              },
+              {
+                "x": 6.5,
+                "y": 17.6,
+                "type": "line"
+              },
+              {
+                "x": 6.5,
+                "y": 16.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 7.4,
+                "y": 15.6,
+                "type": "offcurve"
+              },
+              {
+                "x": 8.5,
+                "y": 15.6,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "white",
+            "width": 2,
+            "opacity": 1,
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_1",
+        "contour": {
+          "id": "c_path_1",
+          "closed": false,
+          "nodes": [
+            {
+              "x": 11,
+              "y": 15.75,
+              "type": "line"
+            },
+            {
+              "x": 11,
+              "y": 7.66,
+              "type": "line"
+            },
+            {
+              "x": 11,
+              "y": 4.9,
+              "type": "offcurve"
+            },
+            {
+              "x": 13.24,
+              "y": 2.66,
+              "type": "offcurve"
+            },
+            {
+              "x": 16,
+              "y": 2.66,
+              "type": "curve"
+            },
+            {
+              "x": 18.76,
+              "y": 2.66,
+              "type": "offcurve"
+            },
+            {
+              "x": 21,
+              "y": 4.9,
+              "type": "offcurve"
+            },
+            {
+              "x": 21,
+              "y": 7.66,
+              "type": "curve"
+            },
+            {
+              "x": 21,
+              "y": 15.75,
+              "type": "line"
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "white",
+        "strokeWidth": 2,
+        "lineCap": "butt",
+        "lineJoin": "round",
+        "contours": [
+          {
+            "id": "c_path_1",
+            "closed": false,
+            "nodes": [
+              {
+                "x": 11,
+                "y": 15.75,
+                "type": "line"
+              },
+              {
+                "x": 11,
+                "y": 7.66,
+                "type": "line"
+              },
+              {
+                "x": 11,
+                "y": 4.9,
+                "type": "offcurve"
+              },
+              {
+                "x": 13.24,
+                "y": 2.66,
+                "type": "offcurve"
+              },
+              {
+                "x": 16,
+                "y": 2.66,
+                "type": "curve"
+              },
+              {
+                "x": 18.76,
+                "y": 2.66,
+                "type": "offcurve"
+              },
+              {
+                "x": 21,
+                "y": 4.9,
+                "type": "offcurve"
+              },
+              {
+                "x": 21,
+                "y": 7.66,
+                "type": "curve"
+              },
+              {
+                "x": 21,
+                "y": 15.75,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "white",
+            "width": 2,
+            "opacity": 1,
+            "lineCap": "butt",
+            "lineJoin": "round",
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      }
+    ]
+  }
 }

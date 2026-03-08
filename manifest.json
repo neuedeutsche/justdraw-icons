@@ -2,7 +2,7 @@
   "name": "Chess Pieces",
   "version": "1.0.0",
   "artboardSize": 32,
-  "iconCount": 667,
+  "iconCount": 670,
   "icons": [
     "3d-extrude-bevel",
     "3d-revolve",
@@ -50,8 +50,8 @@
     "arch-top-left",
     "arch-top-right",
     "aria-injection",
-    "arrow-up",
-    "arrow-down",
+    "arrow-top",
+    "arrow-bottom",
     "arrow-left",
     "arrow-right",
     "arrow-horizontal",
@@ -184,7 +184,6 @@
     "distribute-spacing",
     "distribute-vertical",
     "divide",
-    "domino",
     "double-click-drill-in",
     "download",
     "drag-reorder-layers",
@@ -670,6 +669,24 @@
     "border-bottom",
     "border-top",
     "border-right",
-    "border-left"
+    "border-left",
+    "border-horizontal",
+    "border-vertical",
+    "border-all",
+    "border-none"
+  ],
+  "palette": [
+    {
+      "name": "cream",
+      "defaultHex": "#d9d9d9"
+    },
+    {
+      "name": "light",
+      "defaultHex": "#ffffff"
+    },
+    {
+      "name": "dark",
+      "defaultHex": "#151515"
+    }
   ]
 }

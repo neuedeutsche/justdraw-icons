@@ -2,5 +2,260 @@
   "tags": [],
   "status": "draft",
   "category": "align",
-  "conceptId": "IC-015073"
+  "conceptId": "IC-015073",
+  "document": {
+    "paths": [
+      {
+        "id": "path_16",
+        "contour": {
+          "id": "c_path_16",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 24.5,
+              "y": 30.5,
+              "type": "line",
+              "cornerRadius": 2,
+              "cornerTension": 0.6062100000000001
+            },
+            {
+              "x": 24.5,
+              "y": 7.499999999999998,
+              "type": "line",
+              "cornerRadius": 2,
+              "cornerTension": 0.6062100000000001
+            },
+            {
+              "x": 18.5,
+              "y": 7.5,
+              "type": "line",
+              "cornerRadius": 2,
+              "cornerTension": 0.6062100000000001
+            },
+            {
+              "x": 18.5,
+              "y": 30.5,
+              "type": "line",
+              "cornerRadius": 2,
+              "cornerTension": 0.6062100000000001
+            }
+          ]
+        },
+        "fill": "#D9D9D9",
+        "stroke": "white",
+        "strokeWidth": 2,
+        "contours": [
+          {
+            "id": "c_path_16",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 24.5,
+                "y": 30.5,
+                "type": "line",
+                "cornerRadius": 2,
+                "cornerTension": 0.6062100000000001
+              },
+              {
+                "x": 24.5,
+                "y": 7.499999999999998,
+                "type": "line",
+                "cornerRadius": 2,
+                "cornerTension": 0.6062100000000001
+              },
+              {
+                "x": 18.5,
+                "y": 7.5,
+                "type": "line",
+                "cornerRadius": 2,
+                "cornerTension": 0.6062100000000001
+              },
+              {
+                "x": 18.5,
+                "y": 30.5,
+                "type": "line",
+                "cornerRadius": 2,
+                "cornerTension": 0.6062100000000001
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#D9D9D9",
+            "opacity": 1
+          }
+        ],
+        "strokes": [
+          {
+            "color": "white",
+            "width": 2,
+            "opacity": 1,
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_17",
+        "contour": {
+          "id": "c_path_17",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 7.5,
+              "y": 7.5,
+              "type": "line",
+              "cornerRadius": 2,
+              "cornerTension": 0.6062100000000001
+            },
+            {
+              "x": 7.5,
+              "y": 22.5,
+              "type": "line",
+              "cornerRadius": 2,
+              "cornerTension": 0.6062100000000001
+            },
+            {
+              "x": 13.5,
+              "y": 22.5,
+              "type": "line",
+              "cornerRadius": 2,
+              "cornerTension": 0.6062100000000001
+            },
+            {
+              "x": 13.5,
+              "y": 7.5,
+              "type": "line",
+              "cornerRadius": 2,
+              "cornerTension": 0.6062100000000001
+            }
+          ]
+        },
+        "fill": "#D9D9D9",
+        "stroke": "white",
+        "strokeWidth": 2,
+        "contours": [
+          {
+            "id": "c_path_17",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 7.5,
+                "y": 7.5,
+                "type": "line",
+                "cornerRadius": 2,
+                "cornerTension": 0.6062100000000001
+              },
+              {
+                "x": 7.5,
+                "y": 22.5,
+                "type": "line",
+                "cornerRadius": 2,
+                "cornerTension": 0.6062100000000001
+              },
+              {
+                "x": 13.5,
+                "y": 22.5,
+                "type": "line",
+                "cornerRadius": 2,
+                "cornerTension": 0.6062100000000001
+              },
+              {
+                "x": 13.5,
+                "y": 7.5,
+                "type": "line",
+                "cornerRadius": 2,
+                "cornerTension": 0.6062100000000001
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#D9D9D9",
+            "opacity": 1
+          }
+        ],
+        "strokes": [
+          {
+            "color": "white",
+            "width": 2,
+            "opacity": 1,
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_18",
+        "contour": {
+          "id": "c_path_18",
+          "closed": false,
+          "nodes": [
+            {
+              "x": 32,
+              "y": 3.499999999999999,
+              "type": "line",
+              "smooth": false
+            },
+            {
+              "x": 0,
+              "y": 3.500000000000001,
+              "type": "line",
+              "smooth": false
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "white",
+        "strokeWidth": 2,
+        "lineCap": "butt",
+        "lineJoin": "round",
+        "opacity": 0.5,
+        "contours": [
+          {
+            "id": "c_path_18",
+            "closed": false,
+            "nodes": [
+              {
+                "x": 32,
+                "y": 3.499999999999999,
+                "type": "line",
+                "smooth": false
+              },
+              {
+                "x": 0,
+                "y": 3.500000000000001,
+                "type": "line",
+                "smooth": false
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "white",
+            "width": 2,
+            "opacity": 0.5,
+            "lineCap": "butt",
+            "lineJoin": "round",
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      }
+    ],
+    "guides": [
+      {
+        "id": "guide_1772881257234_0",
+        "axis": "v",
+        "position": -3,
+        "locked": false
+      }
+    ]
+  }
 }

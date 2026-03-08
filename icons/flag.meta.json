@@ -1,6 +1,9 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "",
-  "conceptId": "IC-095004"
+  "category": "object",
+  "conceptId": "IC-095004",
+  "document": {
+    "paths": []
+  }
 }

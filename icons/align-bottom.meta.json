@@ -2,5 +2,39 @@
   "tags": [],
   "status": "draft",
   "category": "align",
-  "conceptId": "IC-015065"
+  "conceptId": "IC-015065",
+  "variantOf": {
+    "sourceIconId": "icon_30",
+    "rotate": 0,
+    "flipY": true,
+    "state": "linked",
+    "createdAt": 1772881717494
+  },
+  "document": {
+    "paths": [],
+    "layers": [
+      {
+        "id": "default",
+        "name": "Foreground",
+        "visible": true,
+        "locked": false,
+        "opacity": 1,
+        "paths": [],
+        "componentRefs": [
+          {
+            "id": "path_21",
+            "iconRef": "icon_30",
+            "transform": {
+              "x": 0,
+              "y": 32,
+              "scaleX": 1,
+              "scaleY": -1,
+              "rotation": 0
+            },
+            "locked": true
+          }
+        ]
+      }
+    ]
+  }
 }

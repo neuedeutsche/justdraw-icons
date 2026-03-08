@@ -1,0 +1,97 @@
+{
+  "tags": [],
+  "status": "draft",
+  "category": "",
+  "conceptId": "IC-015059",
+  "document": {
+    "paths": [
+      {
+        "id": "path_107",
+        "contour": {
+          "id": "c_path_107",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 31.00000000000001,
+              "y": 1,
+              "type": "line",
+              "cornerRadius": 2
+            },
+            {
+              "x": 30.99999999999999,
+              "y": 31.000000000000007,
+              "type": "line",
+              "cornerRadius": 2
+            },
+            {
+              "x": 0.9999999999999858,
+              "y": 31.000000000000007,
+              "type": "line",
+              "cornerRadius": 2
+            },
+            {
+              "x": 1.0000000000000164,
+              "y": 1.0000000000000018,
+              "type": "line",
+              "cornerRadius": 2
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "#FFF",
+        "strokeWidth": 4,
+        "shapeParams": {
+          "type": "rect",
+          "cornerRadius": 0
+        },
+        "contours": [
+          {
+            "id": "c_path_107",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 31.00000000000001,
+                "y": 1,
+                "type": "line",
+                "cornerRadius": 2
+              },
+              {
+                "x": 30.99999999999999,
+                "y": 31.000000000000007,
+                "type": "line",
+                "cornerRadius": 2
+              },
+              {
+                "x": 0.9999999999999858,
+                "y": 31.000000000000007,
+                "type": "line",
+                "cornerRadius": 2
+              },
+              {
+                "x": 1.0000000000000164,
+                "y": 1.0000000000000018,
+                "type": "line",
+                "cornerRadius": 2
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "#FFF",
+            "width": 4,
+            "opacity": 1,
+            "lineCap": "butt",
+            "lineJoin": "miter",
+            "align": "inside"
+          }
+        ],
+        "blendMode": "normal",
+        "rotation": 90,
+        "strokeAlign": "inside"
+      }
+    ],
+    "guides": []
+  }
+}
