@@ -1,5 +1,1004 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "cursor"
+  "category": "cursor",
+  "document": {
+    "paths": [
+      {
+        "id": "path_1385",
+        "type": "group",
+        "children": [
+          {
+            "id": "path_1378",
+            "contour": {
+              "id": "c1",
+              "closed": false,
+              "nodes": [
+                {
+                  "x": 21.5,
+                  "y": 12.5,
+                  "type": "line"
+                },
+                {
+                  "x": 17.0817,
+                  "y": 12.5,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 13.5,
+                  "y": 16.0817,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 13.5,
+                  "y": 20.5,
+                  "type": "curve"
+                },
+                {
+                  "x": 13.5,
+                  "y": 21.5,
+                  "type": "line"
+                }
+              ]
+            },
+            "fill": "none",
+            "stroke": "#ffffff",
+            "strokeWidth": 3,
+            "lineCap": "square",
+            "contours": [
+              {
+                "id": "c1",
+                "closed": false,
+                "nodes": [
+                  {
+                    "x": 21.5,
+                    "y": 12.5,
+                    "type": "line"
+                  },
+                  {
+                    "x": 17.0817,
+                    "y": 12.5,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 13.5,
+                    "y": 16.0817,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 13.5,
+                    "y": 20.5,
+                    "type": "curve"
+                  },
+                  {
+                    "x": 13.5,
+                    "y": 21.5,
+                    "type": "line"
+                  }
+                ]
+              }
+            ],
+            "fills": [],
+            "strokes": [
+              {
+                "color": "#ffffff",
+                "width": 3,
+                "opacity": 1,
+                "lineCap": "square",
+                "align": "center"
+              }
+            ],
+            "blendMode": "normal"
+          },
+          {
+            "id": "path_1379",
+            "contour": {
+              "id": "c1",
+              "closed": true,
+              "nodes": [
+                {
+                  "x": 14.466498312150001,
+                  "y": 19.75,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 15.25,
+                  "y": 20.53350168785,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 15.25,
+                  "y": 21.5,
+                  "type": "curve",
+                  "smooth": true
+                },
+                {
+                  "x": 15.25,
+                  "y": 22.46649831215,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 14.466498312150001,
+                  "y": 23.25,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 13.5,
+                  "y": 23.25,
+                  "type": "curve",
+                  "smooth": true
+                },
+                {
+                  "x": 12.533501687849999,
+                  "y": 23.25,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 11.75,
+                  "y": 22.46649831215,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 11.75,
+                  "y": 21.5,
+                  "type": "curve",
+                  "smooth": true
+                },
+                {
+                  "x": 11.75,
+                  "y": 20.53350168785,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 12.533501687849999,
+                  "y": 19.75,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 13.5,
+                  "y": 19.75,
+                  "type": "curve",
+                  "smooth": true
+                }
+              ]
+            },
+            "fill": "#ffffff",
+            "stroke": "#ffffff",
+            "strokeWidth": 1,
+            "contours": [
+              {
+                "id": "c1",
+                "closed": true,
+                "nodes": [
+                  {
+                    "x": 14.466498312150001,
+                    "y": 19.75,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 15.25,
+                    "y": 20.53350168785,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 15.25,
+                    "y": 21.5,
+                    "type": "curve",
+                    "smooth": true
+                  },
+                  {
+                    "x": 15.25,
+                    "y": 22.46649831215,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 14.466498312150001,
+                    "y": 23.25,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 13.5,
+                    "y": 23.25,
+                    "type": "curve",
+                    "smooth": true
+                  },
+                  {
+                    "x": 12.533501687849999,
+                    "y": 23.25,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 11.75,
+                    "y": 22.46649831215,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 11.75,
+                    "y": 21.5,
+                    "type": "curve",
+                    "smooth": true
+                  },
+                  {
+                    "x": 11.75,
+                    "y": 20.53350168785,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 12.533501687849999,
+                    "y": 19.75,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 13.5,
+                    "y": 19.75,
+                    "type": "curve",
+                    "smooth": true
+                  }
+                ]
+              }
+            ],
+            "fills": [
+              {
+                "type": "solid",
+                "color": "#ffffff",
+                "opacity": 1
+              }
+            ],
+            "strokes": [
+              {
+                "color": "#ffffff",
+                "width": 1,
+                "opacity": 1,
+                "align": "center"
+              }
+            ],
+            "blendMode": "normal"
+          },
+          {
+            "id": "path_1380",
+            "contour": {
+              "id": "c1",
+              "closed": true,
+              "nodes": [
+                {
+                  "x": 22.46649831215,
+                  "y": 10.75,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 23.25,
+                  "y": 11.53350168785,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 23.25,
+                  "y": 12.5,
+                  "type": "curve",
+                  "smooth": true
+                },
+                {
+                  "x": 23.25,
+                  "y": 13.466498312150001,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 22.46649831215,
+                  "y": 14.25,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 21.5,
+                  "y": 14.25,
+                  "type": "curve",
+                  "smooth": true
+                },
+                {
+                  "x": 20.53350168785,
+                  "y": 14.25,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 19.75,
+                  "y": 13.466498312150001,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 19.75,
+                  "y": 12.5,
+                  "type": "curve",
+                  "smooth": true
+                },
+                {
+                  "x": 19.75,
+                  "y": 11.53350168785,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 20.53350168785,
+                  "y": 10.75,
+                  "type": "offcurve"
+                },
+                {
+                  "x": 21.5,
+                  "y": 10.75,
+                  "type": "curve",
+                  "smooth": true
+                }
+              ]
+            },
+            "fill": "#ffffff",
+            "stroke": "#ffffff",
+            "strokeWidth": 1,
+            "contours": [
+              {
+                "id": "c1",
+                "closed": true,
+                "nodes": [
+                  {
+                    "x": 22.46649831215,
+                    "y": 10.75,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 23.25,
+                    "y": 11.53350168785,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 23.25,
+                    "y": 12.5,
+                    "type": "curve",
+                    "smooth": true
+                  },
+                  {
+                    "x": 23.25,
+                    "y": 13.466498312150001,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 22.46649831215,
+                    "y": 14.25,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 21.5,
+                    "y": 14.25,
+                    "type": "curve",
+                    "smooth": true
+                  },
+                  {
+                    "x": 20.53350168785,
+                    "y": 14.25,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 19.75,
+                    "y": 13.466498312150001,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 19.75,
+                    "y": 12.5,
+                    "type": "curve",
+                    "smooth": true
+                  },
+                  {
+                    "x": 19.75,
+                    "y": 11.53350168785,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 20.53350168785,
+                    "y": 10.75,
+                    "type": "offcurve"
+                  },
+                  {
+                    "x": 21.5,
+                    "y": 10.75,
+                    "type": "curve",
+                    "smooth": true
+                  }
+                ]
+              }
+            ],
+            "fills": [
+              {
+                "type": "solid",
+                "color": "#ffffff",
+                "opacity": 1
+              }
+            ],
+            "strokes": [
+              {
+                "color": "#ffffff",
+                "width": 1,
+                "opacity": 1,
+                "align": "center"
+              }
+            ],
+            "blendMode": "normal"
+          }
+        ],
+        "expanded": false,
+        "opacity": 0.5,
+        "contour": {
+          "id": "path_1385_contour",
+          "closed": false,
+          "nodes": []
+        },
+        "contours": [
+          {
+            "id": "path_1385_contour",
+            "closed": false,
+            "nodes": []
+          }
+        ],
+        "fills": [],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_1387",
+        "contour": {
+          "id": "c_path_1387",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 14.085,
+              "y": 5.501950000000001,
+              "type": "line"
+            },
+            {
+              "x": 14.5338,
+              "y": 5.66037,
+              "type": "offcurve"
+            },
+            {
+              "x": 14.5286,
+              "y": 6.296579999999999,
+              "type": "offcurve"
+            },
+            {
+              "x": 14.077100000000002,
+              "y": 6.44727,
+              "type": "curve"
+            },
+            {
+              "x": 8.8291,
+              "y": 8.19629,
+              "type": "line"
+            },
+            {
+              "x": 8.5305,
+              "y": 8.29582,
+              "type": "offcurve"
+            },
+            {
+              "x": 8.29582,
+              "y": 8.5305,
+              "type": "offcurve"
+            },
+            {
+              "x": 8.19629,
+              "y": 8.8291,
+              "type": "curve"
+            },
+            {
+              "x": 6.44727,
+              "y": 14.077100000000002,
+              "type": "line"
+            },
+            {
+              "x": 6.296579999999999,
+              "y": 14.5286,
+              "type": "offcurve"
+            },
+            {
+              "x": 5.66037,
+              "y": 14.5338,
+              "type": "offcurve"
+            },
+            {
+              "x": 5.501950000000001,
+              "y": 14.085,
+              "type": "curve"
+            },
+            {
+              "x": 0.8193359999999998,
+              "y": 0.8193359999999998,
+              "type": "line"
+            }
+          ]
+        },
+        "fill": "#000000",
+        "stroke": "#ffffff",
+        "strokeWidth": 1,
+        "contours": [
+          {
+            "id": "c_path_1387",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 14.085,
+                "y": 5.501950000000001,
+                "type": "line"
+              },
+              {
+                "x": 14.5338,
+                "y": 5.66037,
+                "type": "offcurve"
+              },
+              {
+                "x": 14.5286,
+                "y": 6.296579999999999,
+                "type": "offcurve"
+              },
+              {
+                "x": 14.077100000000002,
+                "y": 6.44727,
+                "type": "curve"
+              },
+              {
+                "x": 8.8291,
+                "y": 8.19629,
+                "type": "line"
+              },
+              {
+                "x": 8.5305,
+                "y": 8.29582,
+                "type": "offcurve"
+              },
+              {
+                "x": 8.29582,
+                "y": 8.5305,
+                "type": "offcurve"
+              },
+              {
+                "x": 8.19629,
+                "y": 8.8291,
+                "type": "curve"
+              },
+              {
+                "x": 6.44727,
+                "y": 14.077100000000002,
+                "type": "line"
+              },
+              {
+                "x": 6.296579999999999,
+                "y": 14.5286,
+                "type": "offcurve"
+              },
+              {
+                "x": 5.66037,
+                "y": 14.5338,
+                "type": "offcurve"
+              },
+              {
+                "x": 5.501950000000001,
+                "y": 14.085,
+                "type": "curve"
+              },
+              {
+                "x": 0.8193359999999998,
+                "y": 0.8193359999999998,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#000000",
+            "opacity": 1
+          }
+        ],
+        "strokes": [
+          {
+            "color": "#ffffff",
+            "width": 1,
+            "opacity": 1,
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_1388",
+        "contour": {
+          "id": "c_path_1388",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 14.19035593725,
+              "y": 20.25,
+              "type": "offcurve"
+            },
+            {
+              "x": 14.75,
+              "y": 20.80964406275,
+              "type": "offcurve"
+            },
+            {
+              "x": 14.75,
+              "y": 21.5,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 14.75,
+              "y": 22.19035593725,
+              "type": "offcurve"
+            },
+            {
+              "x": 14.19035593725,
+              "y": 22.75,
+              "type": "offcurve"
+            },
+            {
+              "x": 13.5,
+              "y": 22.75,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 12.80964406275,
+              "y": 22.75,
+              "type": "offcurve"
+            },
+            {
+              "x": 12.25,
+              "y": 22.19035593725,
+              "type": "offcurve"
+            },
+            {
+              "x": 12.25,
+              "y": 21.5,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 12.25,
+              "y": 20.80964406275,
+              "type": "offcurve"
+            },
+            {
+              "x": 12.80964406275,
+              "y": 20.25,
+              "type": "offcurve"
+            },
+            {
+              "x": 13.5,
+              "y": 20.25,
+              "type": "curve",
+              "smooth": true
+            }
+          ]
+        },
+        "fill": "#000000",
+        "stroke": null,
+        "strokeWidth": 0,
+        "contours": [
+          {
+            "id": "c_path_1388",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 14.19035593725,
+                "y": 20.25,
+                "type": "offcurve"
+              },
+              {
+                "x": 14.75,
+                "y": 20.80964406275,
+                "type": "offcurve"
+              },
+              {
+                "x": 14.75,
+                "y": 21.5,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 14.75,
+                "y": 22.19035593725,
+                "type": "offcurve"
+              },
+              {
+                "x": 14.19035593725,
+                "y": 22.75,
+                "type": "offcurve"
+              },
+              {
+                "x": 13.5,
+                "y": 22.75,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 12.80964406275,
+                "y": 22.75,
+                "type": "offcurve"
+              },
+              {
+                "x": 12.25,
+                "y": 22.19035593725,
+                "type": "offcurve"
+              },
+              {
+                "x": 12.25,
+                "y": 21.5,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 12.25,
+                "y": 20.80964406275,
+                "type": "offcurve"
+              },
+              {
+                "x": 12.80964406275,
+                "y": 20.25,
+                "type": "offcurve"
+              },
+              {
+                "x": 13.5,
+                "y": 20.25,
+                "type": "curve",
+                "smooth": true
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#000000",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_1389",
+        "contour": {
+          "id": "c_path_1389",
+          "closed": false,
+          "nodes": [
+            {
+              "x": 21.5,
+              "y": 12.5,
+              "type": "line"
+            },
+            {
+              "x": 17.0817,
+              "y": 12.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 13.5,
+              "y": 16.0817,
+              "type": "offcurve"
+            },
+            {
+              "x": 13.5,
+              "y": 20.5,
+              "type": "curve"
+            },
+            {
+              "x": 13.5,
+              "y": 21.5,
+              "type": "line"
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "#000000",
+        "strokeWidth": 1,
+        "lineCap": "square",
+        "contours": [
+          {
+            "id": "c_path_1389",
+            "closed": false,
+            "nodes": [
+              {
+                "x": 21.5,
+                "y": 12.5,
+                "type": "line"
+              },
+              {
+                "x": 17.0817,
+                "y": 12.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 13.5,
+                "y": 16.0817,
+                "type": "offcurve"
+              },
+              {
+                "x": 13.5,
+                "y": 20.5,
+                "type": "curve"
+              },
+              {
+                "x": 13.5,
+                "y": 21.5,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "#000000",
+            "width": 1,
+            "opacity": 1,
+            "lineCap": "square",
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_1390",
+        "contour": {
+          "id": "c_path_1390",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 22.19035593725,
+              "y": 11.25,
+              "type": "offcurve"
+            },
+            {
+              "x": 22.75,
+              "y": 11.80964406275,
+              "type": "offcurve"
+            },
+            {
+              "x": 22.75,
+              "y": 12.5,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 22.75,
+              "y": 13.19035593725,
+              "type": "offcurve"
+            },
+            {
+              "x": 22.19035593725,
+              "y": 13.75,
+              "type": "offcurve"
+            },
+            {
+              "x": 21.5,
+              "y": 13.75,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 20.80964406275,
+              "y": 13.75,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.25,
+              "y": 13.19035593725,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.25,
+              "y": 12.5,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 20.25,
+              "y": 11.80964406275,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.80964406275,
+              "y": 11.25,
+              "type": "offcurve"
+            },
+            {
+              "x": 21.5,
+              "y": 11.25,
+              "type": "curve",
+              "smooth": true
+            }
+          ]
+        },
+        "fill": "#000000",
+        "stroke": null,
+        "strokeWidth": 0,
+        "contours": [
+          {
+            "id": "c_path_1390",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 22.19035593725,
+                "y": 11.25,
+                "type": "offcurve"
+              },
+              {
+                "x": 22.75,
+                "y": 11.80964406275,
+                "type": "offcurve"
+              },
+              {
+                "x": 22.75,
+                "y": 12.5,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 22.75,
+                "y": 13.19035593725,
+                "type": "offcurve"
+              },
+              {
+                "x": 22.19035593725,
+                "y": 13.75,
+                "type": "offcurve"
+              },
+              {
+                "x": 21.5,
+                "y": 13.75,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 20.80964406275,
+                "y": 13.75,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.25,
+                "y": 13.19035593725,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.25,
+                "y": 12.5,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 20.25,
+                "y": 11.80964406275,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.80964406275,
+                "y": 11.25,
+                "type": "offcurve"
+              },
+              {
+                "x": 21.5,
+                "y": 11.25,
+                "type": "curve",
+                "smooth": true
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#000000",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      }
+    ]
+  }
 }

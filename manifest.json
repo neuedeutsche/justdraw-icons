@@ -675,18 +675,5 @@
     "border-all",
     "border-none"
   ],
-  "palette": [
-    {
-      "name": "cream",
-      "defaultHex": "#d9d9d9"
-    },
-    {
-      "name": "light",
-      "defaultHex": "#ffffff"
-    },
-    {
-      "name": "dark",
-      "defaultHex": "#151515"
-    }
-  ]
+  "colorMode": "multicolor"
 }

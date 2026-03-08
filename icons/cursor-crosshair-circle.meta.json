@@ -1,5 +1,539 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "cursor"
+  "category": "cursor",
+  "document": {
+    "paths": [
+      {
+        "id": "path_927",
+        "contour": {
+          "id": "c_path_927",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 24.261423749,
+              "y": 16.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 26.5,
+              "y": 18.738576250999998,
+              "type": "offcurve"
+            },
+            {
+              "x": 26.5,
+              "y": 21.5,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 26.5,
+              "y": 24.261423749,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.261423749,
+              "y": 26.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 21.5,
+              "y": 26.5,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 18.738576250999998,
+              "y": 26.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 16.5,
+              "y": 24.261423749,
+              "type": "offcurve"
+            },
+            {
+              "x": 16.5,
+              "y": 21.5,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 16.5,
+              "y": 18.738576250999998,
+              "type": "offcurve"
+            },
+            {
+              "x": 18.738576250999998,
+              "y": 16.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 21.5,
+              "y": 16.5,
+              "type": "curve",
+              "smooth": true
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "#ffffff",
+        "strokeWidth": 3,
+        "lineCap": "square",
+        "opacity": 0.5,
+        "contours": [
+          {
+            "id": "c_path_927",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 24.261423749,
+                "y": 16.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 26.5,
+                "y": 18.738576250999998,
+                "type": "offcurve"
+              },
+              {
+                "x": 26.5,
+                "y": 21.5,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 26.5,
+                "y": 24.261423749,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.261423749,
+                "y": 26.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 21.5,
+                "y": 26.5,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 18.738576250999998,
+                "y": 26.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 16.5,
+                "y": 24.261423749,
+                "type": "offcurve"
+              },
+              {
+                "x": 16.5,
+                "y": 21.5,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 16.5,
+                "y": 18.738576250999998,
+                "type": "offcurve"
+              },
+              {
+                "x": 18.738576250999998,
+                "y": 16.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 21.5,
+                "y": 16.5,
+                "type": "curve",
+                "smooth": true
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "#ffffff",
+            "width": 3,
+            "opacity": 1,
+            "lineCap": "square",
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_928",
+        "contour": {
+          "id": "c_path_928",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 24.261423749,
+              "y": 16.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 26.5,
+              "y": 18.738576250999998,
+              "type": "offcurve"
+            },
+            {
+              "x": 26.5,
+              "y": 21.5,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 26.5,
+              "y": 24.261423749,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.261423749,
+              "y": 26.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 21.5,
+              "y": 26.5,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 18.738576250999998,
+              "y": 26.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 16.5,
+              "y": 24.261423749,
+              "type": "offcurve"
+            },
+            {
+              "x": 16.5,
+              "y": 21.5,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 16.5,
+              "y": 18.738576250999998,
+              "type": "offcurve"
+            },
+            {
+              "x": 18.738576250999998,
+              "y": 16.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 21.5,
+              "y": 16.5,
+              "type": "curve",
+              "smooth": true
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "#000000",
+        "strokeWidth": 1,
+        "lineCap": "square",
+        "opacity": 0.5,
+        "contours": [
+          {
+            "id": "c_path_928",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 24.261423749,
+                "y": 16.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 26.5,
+                "y": 18.738576250999998,
+                "type": "offcurve"
+              },
+              {
+                "x": 26.5,
+                "y": 21.5,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 26.5,
+                "y": 24.261423749,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.261423749,
+                "y": 26.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 21.5,
+                "y": 26.5,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 18.738576250999998,
+                "y": 26.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 16.5,
+                "y": 24.261423749,
+                "type": "offcurve"
+              },
+              {
+                "x": 16.5,
+                "y": 21.5,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 16.5,
+                "y": 18.738576250999998,
+                "type": "offcurve"
+              },
+              {
+                "x": 18.738576250999998,
+                "y": 16.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 21.5,
+                "y": 16.5,
+                "type": "curve",
+                "smooth": true
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "#000000",
+            "width": 1,
+            "opacity": 1,
+            "lineCap": "square",
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_929",
+        "contour": {
+          "id": "c_path_929",
+          "closed": false,
+          "nodes": [
+            {
+              "x": 11.5,
+              "y": 5.5,
+              "type": "line"
+            },
+            {
+              "x": 11.5,
+              "y": 17.5,
+              "type": "line"
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "#ffffff",
+        "strokeWidth": 3,
+        "lineCap": "round",
+        "contours": [
+          {
+            "id": "c_path_929",
+            "closed": false,
+            "nodes": [
+              {
+                "x": 11.5,
+                "y": 5.5,
+                "type": "line"
+              },
+              {
+                "x": 11.5,
+                "y": 17.5,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "#ffffff",
+            "width": 3,
+            "opacity": 1,
+            "lineCap": "round",
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_930",
+        "contour": {
+          "id": "c_path_930",
+          "closed": false,
+          "nodes": [
+            {
+              "x": 5.5,
+              "y": 11.5,
+              "type": "line"
+            },
+            {
+              "x": 17.5,
+              "y": 11.5,
+              "type": "line"
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "#ffffff",
+        "strokeWidth": 3,
+        "lineCap": "round",
+        "contours": [
+          {
+            "id": "c_path_930",
+            "closed": false,
+            "nodes": [
+              {
+                "x": 5.5,
+                "y": 11.5,
+                "type": "line"
+              },
+              {
+                "x": 17.5,
+                "y": 11.5,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "#ffffff",
+            "width": 3,
+            "opacity": 1,
+            "lineCap": "round",
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_931",
+        "contour": {
+          "id": "c_path_931",
+          "closed": false,
+          "nodes": [
+            {
+              "x": 11.5,
+              "y": 5.5,
+              "type": "line"
+            },
+            {
+              "x": 11.5,
+              "y": 17.5,
+              "type": "line"
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "#000000",
+        "strokeWidth": 1,
+        "lineCap": "round",
+        "contours": [
+          {
+            "id": "c_path_931",
+            "closed": false,
+            "nodes": [
+              {
+                "x": 11.5,
+                "y": 5.5,
+                "type": "line"
+              },
+              {
+                "x": 11.5,
+                "y": 17.5,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "#000000",
+            "width": 1,
+            "opacity": 1,
+            "lineCap": "round",
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_932",
+        "contour": {
+          "id": "c_path_932",
+          "closed": false,
+          "nodes": [
+            {
+              "x": 5.5,
+              "y": 11.5,
+              "type": "line"
+            },
+            {
+              "x": 17.5,
+              "y": 11.5,
+              "type": "line"
+            }
+          ]
+        },
+        "fill": "none",
+        "stroke": "#000000",
+        "strokeWidth": 1,
+        "lineCap": "round",
+        "contours": [
+          {
+            "id": "c_path_932",
+            "closed": false,
+            "nodes": [
+              {
+                "x": 5.5,
+                "y": 11.5,
+                "type": "line"
+              },
+              {
+                "x": 17.5,
+                "y": 11.5,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "#000000",
+            "width": 1,
+            "opacity": 1,
+            "lineCap": "round",
+            "align": "center"
+          }
+        ],
+        "blendMode": "normal"
+      }
+    ]
+  }
 }
