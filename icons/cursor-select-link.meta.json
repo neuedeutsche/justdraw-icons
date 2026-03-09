@@ -5,9 +5,9 @@
   "document": {
     "paths": [
       {
-        "id": "path_1538",
+        "id": "path_1548",
         "contour": {
-          "id": "c_path_1538",
+          "id": "c_path_1548",
           "closed": true,
           "nodes": [
             {
@@ -93,7 +93,7 @@
         ],
         "contours": [
           {
-            "id": "c_path_1538",
+            "id": "c_path_1548",
             "closed": true,
             "nodes": [
               {
@@ -167,11 +167,11 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_1536",
+        "id": "path_1546",
         "type": "group",
         "children": [
           {
-            "id": "path_1534",
+            "id": "path_1544",
             "contour": {
               "id": "c1",
               "closed": false,
@@ -445,7 +445,7 @@
             "blendMode": "normal"
           },
           {
-            "id": "path_1535",
+            "id": "path_1545",
             "contour": {
               "id": "c1",
               "closed": false,
