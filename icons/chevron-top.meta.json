@@ -4,6 +4,70 @@
   "category": "arrow",
   "conceptId": "IC-000277",
   "document": {
-    "paths": []
+    "paths": [
+      {
+        "id": "path_0",
+        "contour": {
+          "id": "c_path_0",
+          "closed": false,
+          "nodes": [
+            {
+              "x": 1.5,
+              "y": 23.25,
+              "type": "line"
+            },
+            {
+              "x": 16,
+              "y": 8.75,
+              "type": "line"
+            },
+            {
+              "x": 30.5,
+              "y": 23.25,
+              "type": "line"
+            }
+          ]
+        },
+        "lineCap": "butt",
+        "lineJoin": "round",
+        "contours": [
+          {
+            "id": "c_path_0",
+            "closed": false,
+            "nodes": [
+              {
+                "x": 1.5,
+                "y": 23.25,
+                "type": "line"
+              },
+              {
+                "x": 16,
+                "y": 8.75,
+                "type": "line"
+              },
+              {
+                "x": 30.5,
+                "y": 23.25,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [],
+        "strokes": [
+          {
+            "color": "white",
+            "width": 4.43176,
+            "opacity": 1,
+            "lineCap": "butt",
+            "lineJoin": "round",
+            "align": "center",
+            "startCap": "round",
+            "endCap": "round"
+          }
+        ],
+        "blendMode": "normal"
+      }
+    ]
   }
 }

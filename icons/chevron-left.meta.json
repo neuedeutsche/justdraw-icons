@@ -7,7 +7,7 @@
     "sourceIconId": "icon_90",
     "rotate": 270,
     "state": "linked",
-    "createdAt": 1772970440866
+    "createdAt": 1772983335912
   },
   "document": {
     "paths": [],
@@ -21,7 +21,7 @@
         "paths": [],
         "componentRefs": [
           {
-            "id": "path_72",
+            "id": "path_125",
             "iconRef": "icon_90",
             "transform": {
               "x": 3.552713678800501e-15,
