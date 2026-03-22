@@ -1,6 +1,6 @@
 # Chess Pieces
 
-670 icons · 32×32 · 50 categories
+671 icons · 32×32 · 50 categories · multicolor
 
 ## Preview
 
@@ -13,7 +13,7 @@
 | <img src="icons/altdrag-duplicate.svg" width="48" alt="altdrag-duplicate"> | <img src="icons/alternate-layers.svg" width="48" alt="alternate-layers"> | <img src="icons/anchor-points.svg" width="48" alt="anchor-points"> | <img src="icons/anchor-to-anchor-alignment.svg" width="48" alt="anchor-to-anchor-alignment"> | <img src="icons/android-code-gen.svg" width="48" alt="android-code-gen"> | <img src="icons/angular-gradient.svg" width="48" alt="angular-gradient"> | <img src="icons/animation-property-keyframes.svg" width="48" alt="animation-property-keyframes"> | <img src="icons/applescript.svg" width="48" alt="applescript"> |
 | <img src="icons/arc-pie-ring.svg" width="48" alt="arc-pie-ring"> | <img src="icons/arch-bottom-left.svg" width="48" alt="arch-bottom-left"> | <img src="icons/arch-bottom-right.svg" width="48" alt="arch-bottom-right"> | <img src="icons/arch-top-left.svg" width="48" alt="arch-top-left"> | <img src="icons/arch-top-right.svg" width="48" alt="arch-top-right"> | <img src="icons/aria-injection.svg" width="48" alt="aria-injection"> | <img src="icons/arrow-top.svg" width="48" alt="arrow-top"> | <img src="icons/arrow-bottom.svg" width="48" alt="arrow-bottom"> |
 
-*Showing 48 of 670 icons. Browse [`icons/`](./icons) for the full set.*
+*Showing 48 of 671 icons. Browse [`icons/`](./icons) for the full set.*
 
 ## Usage
 
@@ -23,12 +23,7 @@
 <img src="https://cdn.justdraw.dev/neuedeutsche/justdraw-icons/svg/{name}.svg" width="24" height="24">
 ```
 
-```css
-/* CSS mask — inherits color from parent */
-.icon { mask-image: url(https://cdn.justdraw.dev/neuedeutsche/justdraw-icons/svg/{name}.svg); background: currentColor; }
-```
-
-All SVGs use `currentColor` for fill, so they inherit the parent element’s CSS `color`. CORS is enabled — load from any origin. Assets are immutably cached.
+Icons contain embedded colors — use `<img>` directly. CORS is enabled — load from any origin. Assets are immutably cached.
 
 ### Download
 

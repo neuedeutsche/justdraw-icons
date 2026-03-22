@@ -1,5 +1,503 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "bubbles"
+  "category": "bubbles",
+  "document": {
+    "paths": [
+      {
+        "id": "path_21340",
+        "contour": {
+          "id": "c1",
+          "closed": false,
+          "nodes": [
+            {
+              "x": 20.5,
+              "y": 8.62,
+              "type": "line"
+            },
+            {
+              "x": 20.5,
+              "y": 5.5,
+              "type": "line"
+            },
+            {
+              "x": 20.5,
+              "y": 3.84,
+              "type": "offcurve"
+            },
+            {
+              "x": 19.16,
+              "y": 2.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 17.5,
+              "y": 2.5,
+              "type": "curve"
+            },
+            {
+              "x": 5.5,
+              "y": 2.5,
+              "type": "line"
+            },
+            {
+              "x": 3.84,
+              "y": 2.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 2.5,
+              "y": 3.84,
+              "type": "offcurve"
+            },
+            {
+              "x": 2.5,
+              "y": 5.5,
+              "type": "curve"
+            },
+            {
+              "x": 2.5,
+              "y": 19.58,
+              "type": "line"
+            },
+            {
+              "x": 2.5,
+              "y": 20.09,
+              "type": "offcurve"
+            },
+            {
+              "x": 2.91,
+              "y": 20.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 3.42,
+              "y": 20.5,
+              "type": "curve"
+            },
+            {
+              "x": 3.71,
+              "y": 20.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 3.99,
+              "y": 20.36,
+              "type": "offcurve"
+            },
+            {
+              "x": 4.16,
+              "y": 20.13,
+              "type": "curve"
+            },
+            {
+              "x": 5.75,
+              "y": 18.01,
+              "type": "line"
+            },
+            {
+              "x": 6.32,
+              "y": 17.25,
+              "type": "offcurve"
+            },
+            {
+              "x": 7.21,
+              "y": 16.81,
+              "type": "offcurve"
+            },
+            {
+              "x": 8.15,
+              "y": 16.81,
+              "type": "curve"
+            },
+            {
+              "x": 9.08,
+              "y": 16.81,
+              "type": "line"
+            }
+          ]
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "color": "#ffffff",
+            "width": 2,
+            "opacity": 1
+          }
+        ],
+        "lineCap": "butt",
+        "lineJoin": "round",
+        "contours": [
+          {
+            "id": "c1",
+            "closed": false,
+            "nodes": [
+              {
+                "x": 20.5,
+                "y": 8.62,
+                "type": "line"
+              },
+              {
+                "x": 20.5,
+                "y": 5.5,
+                "type": "line"
+              },
+              {
+                "x": 20.5,
+                "y": 3.84,
+                "type": "offcurve"
+              },
+              {
+                "x": 19.16,
+                "y": 2.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 17.5,
+                "y": 2.5,
+                "type": "curve"
+              },
+              {
+                "x": 5.5,
+                "y": 2.5,
+                "type": "line"
+              },
+              {
+                "x": 3.84,
+                "y": 2.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 2.5,
+                "y": 3.84,
+                "type": "offcurve"
+              },
+              {
+                "x": 2.5,
+                "y": 5.5,
+                "type": "curve"
+              },
+              {
+                "x": 2.5,
+                "y": 19.58,
+                "type": "line"
+              },
+              {
+                "x": 2.5,
+                "y": 20.09,
+                "type": "offcurve"
+              },
+              {
+                "x": 2.91,
+                "y": 20.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 3.42,
+                "y": 20.5,
+                "type": "curve"
+              },
+              {
+                "x": 3.71,
+                "y": 20.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 3.99,
+                "y": 20.36,
+                "type": "offcurve"
+              },
+              {
+                "x": 4.16,
+                "y": 20.13,
+                "type": "curve"
+              },
+              {
+                "x": 5.75,
+                "y": 18.01,
+                "type": "line"
+              },
+              {
+                "x": 6.32,
+                "y": 17.25,
+                "type": "offcurve"
+              },
+              {
+                "x": 7.21,
+                "y": 16.81,
+                "type": "offcurve"
+              },
+              {
+                "x": 8.15,
+                "y": 16.81,
+                "type": "curve"
+              },
+              {
+                "x": 9.08,
+                "y": 16.81,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_21341",
+        "contour": {
+          "id": "c1",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 29.5,
+              "y": 28.58,
+              "type": "curve"
+            },
+            {
+              "x": 29.5,
+              "y": 29.09,
+              "type": "offcurve"
+            },
+            {
+              "x": 29.09,
+              "y": 29.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 28.58,
+              "y": 29.5,
+              "type": "curve"
+            },
+            {
+              "x": 28.29,
+              "y": 29.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 28.01,
+              "y": 29.36,
+              "type": "offcurve"
+            },
+            {
+              "x": 27.84,
+              "y": 29.13,
+              "type": "line"
+            },
+            {
+              "x": 26.25,
+              "y": 27.01,
+              "type": "curve"
+            },
+            {
+              "x": 25.68,
+              "y": 26.25,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.79,
+              "y": 25.81,
+              "type": "offcurve"
+            },
+            {
+              "x": 23.85,
+              "y": 25.81,
+              "type": "line"
+            },
+            {
+              "x": 14.5,
+              "y": 25.81,
+              "type": "curve"
+            },
+            {
+              "x": 12.84,
+              "y": 25.81,
+              "type": "offcurve"
+            },
+            {
+              "x": 11.5,
+              "y": 24.46,
+              "type": "offcurve"
+            },
+            {
+              "x": 11.5,
+              "y": 22.81,
+              "type": "line"
+            },
+            {
+              "x": 11.5,
+              "y": 14.5,
+              "type": "curve"
+            },
+            {
+              "x": 11.5,
+              "y": 12.84,
+              "type": "offcurve"
+            },
+            {
+              "x": 12.84,
+              "y": 11.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 14.5,
+              "y": 11.5,
+              "type": "line"
+            },
+            {
+              "x": 26.5,
+              "y": 11.5,
+              "type": "curve"
+            },
+            {
+              "x": 28.16,
+              "y": 11.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 29.5,
+              "y": 12.84,
+              "type": "offcurve"
+            },
+            {
+              "x": 29.5,
+              "y": 14.5,
+              "type": "line"
+            }
+          ]
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "color": "#ffffff",
+            "width": 2,
+            "opacity": 1
+          }
+        ],
+        "contours": [
+          {
+            "id": "c1",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 29.5,
+                "y": 28.58,
+                "type": "curve"
+              },
+              {
+                "x": 29.5,
+                "y": 29.09,
+                "type": "offcurve"
+              },
+              {
+                "x": 29.09,
+                "y": 29.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 28.58,
+                "y": 29.5,
+                "type": "curve"
+              },
+              {
+                "x": 28.29,
+                "y": 29.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 28.01,
+                "y": 29.36,
+                "type": "offcurve"
+              },
+              {
+                "x": 27.84,
+                "y": 29.13,
+                "type": "line"
+              },
+              {
+                "x": 26.25,
+                "y": 27.01,
+                "type": "curve"
+              },
+              {
+                "x": 25.68,
+                "y": 26.25,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.79,
+                "y": 25.81,
+                "type": "offcurve"
+              },
+              {
+                "x": 23.85,
+                "y": 25.81,
+                "type": "line"
+              },
+              {
+                "x": 14.5,
+                "y": 25.81,
+                "type": "curve"
+              },
+              {
+                "x": 12.84,
+                "y": 25.81,
+                "type": "offcurve"
+              },
+              {
+                "x": 11.5,
+                "y": 24.46,
+                "type": "offcurve"
+              },
+              {
+                "x": 11.5,
+                "y": 22.81,
+                "type": "line"
+              },
+              {
+                "x": 11.5,
+                "y": 14.5,
+                "type": "curve"
+              },
+              {
+                "x": 11.5,
+                "y": 12.84,
+                "type": "offcurve"
+              },
+              {
+                "x": 12.84,
+                "y": 11.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 14.5,
+                "y": 11.5,
+                "type": "line"
+              },
+              {
+                "x": 26.5,
+                "y": 11.5,
+                "type": "curve"
+              },
+              {
+                "x": 28.16,
+                "y": 11.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 29.5,
+                "y": 12.84,
+                "type": "offcurve"
+              },
+              {
+                "x": 29.5,
+                "y": 14.5,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "blendMode": "normal"
+      }
+    ]
+  }
 }

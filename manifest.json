@@ -2,7 +2,7 @@
   "name": "Chess Pieces",
   "version": "1.0.0",
   "artboardSize": 32,
-  "iconCount": 670,
+  "iconCount": 671,
   "icons": [
     "3d-extrude-bevel",
     "3d-revolve",
@@ -673,7 +673,8 @@
     "border-horizontal",
     "border-vertical",
     "border-all",
-    "border-none"
+    "border-none",
+    ".box"
   ],
   "colorMode": "multicolor"
 }
